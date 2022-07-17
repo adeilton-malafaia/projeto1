@@ -1,1 +1,1 @@
-print("Oi, beleza?")
+print("Oi")
